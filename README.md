@@ -1,2 +1,3 @@
 # X-Y-plotter
 A X-Y plotter used to draw simple images,Braille signs,etc...
+For more details see the abstract document.
